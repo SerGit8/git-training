@@ -2,10 +2,8 @@ hi
 hola
 Olá
 
-
-ejer2 parteb
-
 ejer2 parteb
 ejer3
 
-commit intento merge
+
+cambio en feature3
